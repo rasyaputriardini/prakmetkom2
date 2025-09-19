@@ -1,4 +1,4 @@
 # prakmetkom2
-# hari ini belajar git dan github
-# masih bingung
-# ketikblablabalbl
+# Membuat Markdown File dalam Repository
+# Membuat profile README
+# Membuat Repository Baru dan Eksperimen Git
